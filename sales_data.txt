@@ -1,0 +1,17 @@
+date,region,product,units,price_per_unit
+2023-01-15,North,Laptop,45,899.99
+2023-01-22,South,Smartphone,78,549.99
+2023-01-30,East,Tablet,36,329.99
+2023-02-05,West,Laptop,52,899.99
+2023-02-12,North,Smartphone,63,549.99
+2023-02-19,South,Tablet,41,329.99
+2023-02-26,East,Laptop,38,899.99
+2023-03-05,West,Smartphone,82,549.99
+2023-03-12,North,Tablet,29,329.99
+2023-03-19,South,Laptop,56,899.99
+2023-03-26,East,Smartphone,71,549.99
+2023-04-02,West,Tablet,43,329.99
+2023-04-09,North,Laptop,61,899.99
+2023-04-16,South,Smartphone,54,549.99
+2023-04-23,East,Tablet,37,329.99
+2023-04-30,West,Laptop,48,899.99
